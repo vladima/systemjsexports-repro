@@ -1,0 +1,8 @@
+{
+  "name": "SystemJS-issue",
+  "version": "1.0.0",
+  "dependencies": {
+    "systemjs": "^0.18.4",
+    "typescript": "^1.5.3"
+  }
+}
